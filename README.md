@@ -95,9 +95,9 @@ This link contained augemented dataset by MCG in CDA-V3-supertest, and the origi
 
 ## Quick look of results:
 ### Performance of recall rate in craters smaller than 1.5 km:
-![sml_1.5.png](https://github.com/Akutagawa1998/Crater-Detection/main/sml_1.5.png)
+![sml_1.5.png](https://github.com/Akutagawa1998/Crater-Detection/Blob/main/sml_1.5.png)
 ### Compare with the SOTA:
-![Table_2_new.png](https://github.com/Akutagawa1998/Crater-Detection/main/Table_2_new.png)
+![Table_2_new.png](https://github.com/Akutagawa1998/Crater-Detection/Blob/main/Table_2_new.png)
 
 
 
